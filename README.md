@@ -20,7 +20,10 @@ This project serves as a practical introduction to **Computer Vision** and **AI-
 - Object Tracking  
 - Color Detection  
 - QR Code / AprilTag Reading  
-- Line Tracking  
+- Line Tracking
+
+  ![Husky](Husky2.jpeg)
+
 
 The device is beginner-friendly, programmable via its onboard buttons, and works in real time without requiring deep coding knowledge.
 
@@ -34,6 +37,9 @@ The device is beginner-friendly, programmable via its onboard buttons, and works
 |  USB Type-C Cable   | For powering and programming the device      |
 |  Jumper Wires       | For future integration with Arduino/ESP32    |
 |  Power Bank         | Portable external power source               |
+
+
+![Husky](The%20Materials.jpeg)
 
 ---
 
