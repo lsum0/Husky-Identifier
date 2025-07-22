@@ -39,7 +39,7 @@ The device is beginner-friendly, programmable via its onboard buttons, and works
 |  Power Bank         | Portable external power source               |
 
 
-![Husky](TheMaterials.jpeg)
+
 
 ---
 
@@ -64,9 +64,7 @@ The device is beginner-friendly, programmable via its onboard buttons, and works
 
 > Below is an image showing the actual tools and setup used in this project:
 
-![HuskyLens Project](assets/huskylens-demo.jpg)
-
-*(Make sure to place the image inside a folder named `assets` and update the file name if needed)*
+![Husky](TheMaterials.jpeg)
 
 ---
 
