@@ -39,7 +39,7 @@ The device is beginner-friendly, programmable via its onboard buttons, and works
 |  Power Bank         | Portable external power source               |
 
 
-![Husky](The%20Materials.jpeg)
+![Husky](The%Materials.jpeg)
 
 ---
 
