@@ -6,7 +6,8 @@ This project demonstrates the use of the **HuskyLens AI Vision Sensor** to recog
 In this prototype, the HuskyLens was trained to detect a **water bottle**, and once trained, it is able to recognize the object automatically and independently — without the need for a computer.
 
 This project serves as a practical introduction to **Computer Vision** and **AI-based object detection**.
-![Husky](Buttoljpeg)
+
+![Husky](Buttol.jpeg)
 
 ---
 
