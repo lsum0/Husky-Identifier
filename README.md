@@ -86,23 +86,4 @@ The device is beginner-friendly, programmable via its onboard buttons, and works
 
 ---
 
-## 8.  Author :
 
-- **Name**: *(Your name here)*
-- **Role**: Developer / Student / Engineer
-- **Purpose**: Personal Experiment / Academic Project / AI Demo
-
----
-
-## 9.  License :
-
-This project is licensed under the **MIT License**.  
-Refer to the [LICENSE](LICENSE) file for more details.
-
----
-
-## 🙏 Acknowledgments
-
-- [DFRobot Official HuskyLens Documentation](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305)
-- GitHub for providing project hosting and collaboration tools
-- Open-source communities supporting beginner AI development
